@@ -1,0 +1,8 @@
+<launch>
+
+
+
+  <!-- Launching python file to run turtlebot in the environment -->
+  <node pkg="navigate_turtlebot" type="navigateTurtle.py" name="turtle_avoiding_object" output="screen"/>
+
+</launch>
