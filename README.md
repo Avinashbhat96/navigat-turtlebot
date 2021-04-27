@@ -1,2 +1,4 @@
 # navigat-turtlebot
-navigate turtlebot using Laserscan values
+Navigate robot to a desired location using Laserscan values.
+
+Here it will subscribe to PointArray messages and navigate to the point desired.
